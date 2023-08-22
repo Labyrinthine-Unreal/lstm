@@ -55,7 +55,7 @@ Requirements: ...
 
 ###### 2. torch_lstm.py => Conversion
      (copy/pasta of the Keras LSTM model from process.py) 
-     (exports LSTM model as ONNX model to be machine readable in unity) 
+     (exports LSTM model as ONNX model to be machine readable in unity, allowing users to communicate with gameobjects with our trained/evaluated models.) 
 
 
 
