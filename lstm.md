@@ -1,4 +1,4 @@
-# Guide to lstm_mods @ Labyrinthine Unreal
+# Guide to lstm_mods @Labyrinthine Unreal
 
 # installs
 
