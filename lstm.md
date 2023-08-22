@@ -23,7 +23,6 @@ Requirements: ...
 ###### 1. app.py => python Fauna api
      (python app.py will fetch data from Unity C# scripts JSON payload and post data to Fauna real-time.)
      (While the unity character is training to move around the environment, the character name, movements, positions, and velocity will be stored live in the fauna Movement collection.)
-     (Model training will automatically be exported as ONNX to use on any other characters via Unity ml agents)
      
 
 ###### 2. automateTask.py => ChatGPT conversation modelling
